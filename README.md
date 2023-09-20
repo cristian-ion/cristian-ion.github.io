@@ -1,4 +1,4 @@
-# cristian-ion.github.io
+# Cristian Ion
 
 ## About me
 
