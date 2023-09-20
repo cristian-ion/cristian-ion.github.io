@@ -12,8 +12,8 @@ Born: 28/10/1994
 Location: Iasi, Romania
 
 Software engineer with 8+ years of experience servicing product development through innovative engineering solutions based on solid technology skills.
-Proven abilities in developing backend distributed systems at scale and creating reliable machine learning models applied in production. Expertise in coding effective solutions in a timely manner.
-Enthusiastic about my work and put forth my best efforts towards completing tasks.
+Proven abilities in developing backend distributed systems at scale and designing reliable machine learning models applied in production. Expertise in coding effective solutions in a timely manner.
+Enthusiastic about my work and put forth my best efforts towards completing my tasks.
 
 ## Working experience
 Currently holding a full-time position at Capgemini since 2022.
