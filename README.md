@@ -1,6 +1,6 @@
 # cristian-ion.github.io
 
-Welcome to my page.
+Welcome to my professional page.
 
 ## About me
 Name: Cristian Ion
@@ -16,9 +16,9 @@ I am a software engineer with over 8 years of experience providing innovative en
 ## Working experience
 Since 2022, I have been working full-time at Capgemini. Before that, I held the position of Senior Software Engineer at Bitdefender.
 
-# Education
+## Education
 I graduated in 2017 from the Computer Science Faculty, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
-Currently, I am partly working towards a master's in optimization at the same faculty.
+Currently, I am partly working towards a master's diploma in optimization at the same faculty.
 
 ## Technical skills
 Programming: Python, C++, JavaScript, SQL\
