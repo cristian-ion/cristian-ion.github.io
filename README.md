@@ -1,5 +1,7 @@
 # cristian-ion.github.io
 
+Welcome to my personal page.
+
 ## About me
 Name: Cristian Ion
 \
