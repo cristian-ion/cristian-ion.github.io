@@ -19,7 +19,7 @@ Development methodologies: DevOps, Agile, Scrum\
 Programming: Python, C++, SQL, JavaScript\
 Data storage: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
-IDEs: Visual Studio, VS Code\
+IDEs: Visual Studio, VS Code
 
 ## Contact
 Linkedin: https://www.linkedin.com/in/cristianion94/
@@ -27,6 +27,5 @@ Linkedin: https://www.linkedin.com/in/cristianion94/
 Email: cristian.ion94@gmail.com
 \
 Web page: https://cristian-ion.github.io/
-\
 
 @2023
