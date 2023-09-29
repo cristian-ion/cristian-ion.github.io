@@ -8,7 +8,7 @@ I'm a software engineer with over 8 years of experience providing innovative eng
 I've been employed professionally since 2015, working full-time for Capgemini (2022-Present) and Bitdefender (2015-2022).
 
 ## Education Background
-I graduated at the Computer Science Faculty in 2017, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
+I graduated from the Computer Science Faculty in 2017, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
 Currently, I'm pursuing a Master's degree at the same faculty.
 
 ## Technical Skills
