@@ -1,16 +1,16 @@
 # cristian-ion.github.io
 
-## Professional profile
+## Professional Profile
 Hello, I'm Cristian.\
-I'm a software engineer with over 8 years of experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable machine learning models for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort to complete tasks and learn.
+I'm a software engineer with over 8 years of experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable algorithms for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort to complete tasks and learn.
 
-## Working experience
+## Employment History
 Since 2022, I've been working remotely full-time at Capgemini. Before that, I held the position of Senior Software Engineer at Bitdefender.
 
 ## Education
 I graduated from the Computer Science Faculty in 2017, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
 
-## Technical skills
+## Technical Skills
 Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
 Development methodologies: DevOps, Agile, Scrum\
 Programming: Python, C++, SQL, JavaScript\
