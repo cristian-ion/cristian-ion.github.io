@@ -1,9 +1,6 @@
 # cristian-ion.github.io
 
-Hello, I'm Cristian.
-
-## About me
-
+Hello, I'm Cristian.\
 I'm a software engineer with over 8 years of experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable machine learning models for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort to complete tasks and learn.
 
 ## Working experience
@@ -17,7 +14,7 @@ Currently, I am partly working towards a master's diploma in optimization at the
 Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
 Development methodologies: DevOps, Agile, Scrum\
 Programming: Python, C++, SQL, JavaScript\
-Data storage: PostgreSQL, MongoDB, RabbitMQ, Redis\
+Data: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
 IDEs: Visual Studio, VS Code
 
