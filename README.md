@@ -17,6 +17,6 @@ Data: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
 IDEs: Visual Studio, VS Code
 Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
-Development methodologies: DevOps, Agile, Scrum\
+Development methodologies: DevOps, Agile, Scrum
 
 @2023
