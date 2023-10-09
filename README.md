@@ -12,18 +12,11 @@ I graduated from the Computer Science Faculty in 2017, part of the "Alexandru Io
 Currently, I'm pursuing a Master's degree at the same faculty.
 
 ## Technical Skills
-Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
-Development methodologies: DevOps, Agile, Scrum\
 Programming: Python, C++, SQL, JavaScript\
 Data: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
 IDEs: Visual Studio, VS Code
-
-## Contact
-Linkedin: https://www.linkedin.com/in/cristianion94/
-\
-Email: cristian.ion94@gmail.com
-\
-Web page: https://cristian-ion.github.io/
+Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
+Development methodologies: DevOps, Agile, Scrum\
 
 @2023
