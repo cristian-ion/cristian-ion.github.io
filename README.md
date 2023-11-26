@@ -9,14 +9,21 @@ I've been employed professionally since 2015, working full-time for Capgemini (2
 
 ## Education Background
 I graduated from the Computer Science Faculty in 2017, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
-Currently, I'm pursuing a Master's degree at the same faculty.
+Currently, I'm pursuing a Master's degree in Artificial Intelligence and Optimisation at the same faculty.
 
 ## Technical Skills
-Programming: Python, C++, SQL, JavaScript\
+Programming: Python, C++, JavaScript, SQL\
 Data: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
-IDEs: Visual Studio, VS Code
+IDEs: Visual Studio, VS Code\
 Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
-Development methodologies: DevOps, Agile, Scrum
+Development methods: Agile, Scrum
+
+## Backend experience
+Python: fast API, SQL alchemy, Alembic, Pydantic, Celery
+Monitoring: Grafana, Prometheus, Instrumentation
+
+## AI / Machine learning experience
+Computer vision: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1
 
 @2023
