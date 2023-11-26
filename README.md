@@ -17,11 +17,12 @@ Data: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
 IDEs: Visual Studio, VS Code\
 Collaboration tools: Git, GitLab, Jira, Confluence, BitBucket\
-Development methods: Agile, Scrum
+Development methods: Agile, Scrum\
+Other: Linux, Docker
 
 ## Backend experience
-Python: fast API, SQL alchemy, Alembic, Pydantic, Celery
-Monitoring: Grafana, Prometheus, Instrumentation
+Python: fast API, SQL alchemy, Alembic, Pydantic, Celery\
+Monitoring: Flower, Grafana, Prometheus, Instrumentation\
 
 ## AI / Machine learning experience
 Computer vision: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1
