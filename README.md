@@ -2,7 +2,7 @@
 
 ## Professional Profile
 Hello, I'm Cristian.\
-I'm a software engineer with over 8 years of professional experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable algorithms for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort to complete tasks and learn.
+I'm a software engineer with over 8 years of professional experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable algorithms for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort to complete tasks, learn, and help improve the products.
 
 ## Employment History
 I've been employed professionally since 2015, working full-time for Capgemini (2022-Present) and Bitdefender (2015-2022).
@@ -26,5 +26,9 @@ Monitoring: Flower, Grafana, Prometheus, Instrumentation\
 
 ## AI / Machine learning experience
 Computer vision: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1
+
+## Responsibilities
+Contributions to the continuous improvement of our products by sharing best practices and coding knowledge with the team.\
+Designing and implementing clean, efficient and scalable software solutions for the requirements of our clients or managers.
 
 @2023
