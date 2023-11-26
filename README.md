@@ -11,7 +11,7 @@ I've been employed professionally since 2015, working full-time for Capgemini (2
 I graduated from the Computer Science Faculty in 2017, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
 Currently, I'm pursuing a Master's degree in Artificial Intelligence and Optimisation at the same faculty.
 
-## Technical Skills
+## Software development/engineering skills
 Programming: Python, C++, JavaScript, SQL\
 Data: PostgreSQL, MongoDB, RabbitMQ, Redis\
 Algorithms: Machine Learning, Deep Learning, Computer Vision\
