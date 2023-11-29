@@ -2,14 +2,15 @@
 
 ## Professional Profile
 Hello, I'm Cristian.\
-I'm a software engineer with over 8 years of professional experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable algorithms for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort to complete tasks, learn, and help improve the products.
+I'm a software engineer with over 8 years of professional experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable algorithms for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products.
 
 ## Employment History
-I've been employed professionally since 2015, working full-time for Capgemini (2022-Present) and Bitdefender (2015-2022).
+- Bitdefender (2015-2022), Software Engineer
+- Capgemini (2022-Present), Software Engineer
 
 ## Education Background
-I graduated from the Computer Science Faculty in 2017, part of the "Alexandru Ioan Cuza" University in Iasi, Romania.
-Currently, I'm pursuing a Master's degree in Artificial Intelligence and Optimisation at the same faculty.
+Graduated from the Computer Science Faculty in 2017, "Alexandru Ioan Cuza" University in Iasi, Romania.\
+Pursuing a Master's degree in Artificial Intelligence and Optimisation at the same faculty.
 
 ## Software development/engineering skills
 Programming: Python, C++, JavaScript, SQL\
@@ -24,8 +25,8 @@ Other: Linux, Docker
 Python: fast API, SQL alchemy, Alembic, Pydantic, Celery\
 Monitoring: Flower, Grafana, Prometheus, Instrumentation\
 
-## AI / Machine learning experience
-Computer vision: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1
+## Research Experience
+- Published article: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1
 
 ## Responsibilities
 Contributions to the continuous improvement of our products by sharing best practices and coding knowledge with the team.\
