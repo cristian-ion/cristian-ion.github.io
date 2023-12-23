@@ -1,4 +1,4 @@
-# Cristian Ion, Software Engineer
+# Cristian Ion, Senior Software Engineer
 
 ## Professional Summary
 Hello, I'm Cristian.\
