@@ -4,7 +4,6 @@
 Hello, I'm Cristian.\
 I'm a software engineer with over 8 years of professional experience building innovative solutions using solid technical skills.
 My expertise lies in developing optimized backends with high throughput and low latency, machine learning research and implementing reliable models in production.
-I am skilled in coding effective solutions within tight timelines.
 I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products by having initiative.
 
 ## Employment History
