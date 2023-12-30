@@ -2,7 +2,10 @@
 
 ## Professional Summary
 Hello, I'm Cristian.\
-I'm a software engineer with over 8 years of professional experience providing innovative engineering solutions to product development using solid technology skills. My expertise lies in developing scalable backend applications and designing dependable algorithms for production use. I am skilled in coding effective solutions within tight timelines. I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products.
+I'm a software engineer with over 8 years of professional experience building innovative solutions using solid technical skills.
+My expertise lies in developing optimized backends with high throughput and low latency, conducting machine learning research and implementing reliable models in production.
+I am skilled in coding effective solutions within tight timelines.
+I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products.
 
 ## Employment History
 - Bitdefender (2015-2022), Software Engineer
