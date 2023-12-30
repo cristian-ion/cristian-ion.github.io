@@ -36,11 +36,7 @@ Integration with cloud providers: AWS, GCP, Azure.
 ## Research Experience
 - Published article: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1\
 - Research experience in cyber security software.
-- Attendance at international conferences and patent contributions.
-
-## Release experience
-Managing Cloud deployments of backend services using docker.\
-Experience with GitLab, Bamboo, and Jenkins.\
+- Attendances at conferences.
 
 ## Responsibilities
 Contributions to the continuous improvement of our products by sharing best practices and coding knowledge with the team.\
