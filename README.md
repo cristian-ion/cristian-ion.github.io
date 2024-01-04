@@ -2,8 +2,8 @@
 
 ## Professional Summary
 Hello, I'm Cristian.\
-I'm a software engineer with over 8 years of professional experience building innovative solutions using solid technical skills.
-My expertise lies in developing optimized backends with high throughput and low latency, asynchronous data processing, and machine learning. I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products by having initiative.
+I'm a software engineer with over 8 years of professional experience building innovative and elegant solutions using solid technical skills.
+My expertise lies in developing optimized backends with high throughput and low latency. My projects usually involve asynchronous data processing and machine learning. I am passionate about my work and always put in my best effort in tackling difficult problems, learning from mistakes and others, and helping improve the products by having initiative.
 
 * Good understanding of agile methodologies (Scrum, Kanban)
 * Strong knowledge of advanced Python areas
