@@ -1,4 +1,4 @@
-# Cristian Ion, Senior Software Engineer
+# Cristian Ion, Sr. Software Engineer
 
 ## Professional Summary
 Hello, I'm Cristian.\
@@ -54,5 +54,4 @@ Designing and implementing clean, efficient and scalable software solutions for 
 
 @2023
 
-Cristian Ion
-Senior Software Engineer
+Cristian Ion, Sr. Software Engineer
