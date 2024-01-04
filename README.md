@@ -53,3 +53,6 @@ Contributions to the continuous improvement of our products by sharing best prac
 Designing and implementing clean, efficient and scalable software solutions for the requirements of our clients or managers.
 
 @2023
+
+Cristian Ion
+Senior Software Engineer
