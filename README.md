@@ -3,8 +3,19 @@
 ## Professional Summary
 Hello, I'm Cristian.\
 I'm a software engineer with over 8 years of professional experience building innovative solutions using solid technical skills.
-My expertise lies in developing optimized backends with high throughput and low latency, asynchronous data processing, machine learning research and implementing reliable models in production.
-I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products by having initiative.
+My expertise lies in developing optimized backends with high throughput and low latency, asynchronous data processing, and machine learning. I am passionate about my work and always put in my best effort in tackling problems, learning, and helping improve the products by having initiative.
+
+* Good understanding of agile methodologies (Scrum, Kanban)
+* Strong knowledge of advanced Python areas
+* Strong knowledge of algorithms, machine learning, and computer vision.
+* Unit testing experience
+* Experience with debugging, profiling and optimisation
+* Thinking at scale, and with high availability, high throughput, and low latency.
+* Experience with asynchronous data processing
+* Can work with cross-team members on large and complex projects
+* Thriving in complex situations and coming up with elegant solutions
+* Sufficient English level for communication (verbal and written) for advanced technical discussions and communications at work.
+* Fast research and learning skills
 
 ## Employment History
 - Bitdefender (2015-2022), Software Engineer
@@ -22,7 +33,7 @@ Data storage and processing: PostgreSQL, MongoDB, S3, GCS, RabbitMQ, Redis, Spar
 Collaboration tools: Git, GitLab, Bamboo, Jira, Confluence, BitBucket\
 Development methods: Agile, Scrum\
 Multiplatform development: Linux, Docker\
-IDEs: Visual Studio, Visual Studio Code\
+IDEs: Visual Studio, Visual Studio Code
 
 ## Programming experience
 Expert experience with Python and libraries for the backend: FastAPI, SQL alchemy, Celery, Alembic, and Pydantic.\
