@@ -11,7 +11,7 @@ My expertise lies in developing optimized backends with high throughput and low 
 * Unit testing experience
 * Experience with debugging, profiling and optimisation
 * Thinking at scale, and with high availability, high throughput, and low latency.
-* Experience with asynchronous data processing
+* Experience with asynchronous data processing in Python and NodeJS.
 * Can work with cross-team members on large and complex projects
 * Thriving in complex situations and coming up with elegant solutions
 * Sufficient English level for communication (verbal and written) for advanced technical discussions and communications at work.
