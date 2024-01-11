@@ -2,21 +2,8 @@
 
 ## Professional Summary
 Hello, I'm Cristian.\
-I'm a software engineer with over 8 years of professional experience building innovative and elegant solutions using solid technical skills.
-My expertise lies in developing optimized backends with high throughput and low latency. My projects usually involve asynchronous data processing and machine learning as part of a complex system. I am passionate about my work and always put in my best effort in tackling difficult problems, learning from mistakes and others, and helping improve the products by having initiative.
-
-* Good understanding of agile methodologies (Scrum, Kanban)
-* Strong knowledge of advanced Python areas
-* Strong knowledge of algorithms, machine learning, and computer vision.
-* Unit testing experience
-* Experience with debugging, profiling and optimisation
-* Thinking at scale, and with high availability, high throughput, and low latency.
-* Experience with asynchronous data processing in Python and NodeJS.
-* Experience with SQL and NoSQL databases.
-* Can work with cross-team members on large and complex projects
-* Thriving in complex situations and coming up with elegant solutions
-* Sufficient English level for communication (verbal and written) for advanced technical discussions and communications at work.
-* Fast research and learning skills
+I'm a software engineer with over 8 years of professional experience in research and development building innovative and elegant solutions using solid technical skills.
+My expertise lies in developing optimized backends with high throughput and low latency. My projects usually involve asynchronous data processing and machine learning as part of a complex system. I am passionate about my work and always put in my best effort in tackling difficult problems, and helping improve the products by having initiative.
 
 ## Employment History
 - Bitdefender (2015-2022), Software Engineer
