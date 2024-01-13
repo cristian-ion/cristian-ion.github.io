@@ -14,7 +14,7 @@ I am passionate about scientific research, algorithms, and building software.
 I graduated from the Computer Science Faculty in 2017, "Alexandru Ioan Cuza" University in Iasi, Romania.\
 I am pursuing a Master's in Artificial Intelligence and Optimisation at the same faculty.
 
-## Software engineering
+## Software development
 Programming: Python, C++, JavaScript, SQL\
 System design and architecture: asynchronous processing, microservices, Object-oriented programming, design patterns, UML\
 Algorithm design: Classification, Clustering, Statistics, Machine Learning, Deep Learning, Computer Vision\
