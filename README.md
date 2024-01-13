@@ -3,7 +3,8 @@
 ## Professional Summary
 Hello, I'm Cristian.\
 I'm a software engineer with over 8 years of professional experience in research and development building innovative and elegant solutions using solid technical skills.
-My expertise lies in developing optimized backends with high throughput and low latency. My projects usually involve asynchronous data processing and machine learning as part of a complex system. I am passionate about my work and always put in my best effort in tackling difficult problems, and helping improve the products by having initiative.
+My expertise lies in developing optimized backends with high throughput and low latency. My projects usually involve asynchronous data processing and machine learning as part of a complex system. 
+I am passionate about scientific research, algorithms, and building software.
 
 ## Employment History
 - Bitdefender (2015-2022), Software Engineer
