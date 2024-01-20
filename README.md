@@ -11,8 +11,8 @@ Experienced software development engineer with backend technologies and machine 
 - Computer Vision
 
 ## Employment History
-- Bitdefender (2015-2022), Senior Software Engineer, Content Filtering - C++ developer, Backend, Machine Learning, Computer Vision
-- Capgemini (2022-Present), Python Software Engineer
+- Bitdefender (2015-2022), Senior Software Engineer, Cyber-Threat Intelligence lab, Content Filtering
+- Capgemini (2022-Present), Python Software Engineer, Outsourcing
 
 ## Education Background
 I graduated from the Computer Science Faculty in 2017, "Alexandru Ioan Cuza" University in Iasi, Romania.\
