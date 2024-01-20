@@ -3,6 +3,13 @@
 ## Professional Summary
 Experienced software development engineer with backend technologies and machine learning, designing innovative and elegant solutions using solid technical skills. I am passionate about research, algorithms, and building software.
 
+- C++ development\
+- Python Development and Scripting\
+- NodeJS Development and Scripting\
+- Backend Engineering\
+- Machine Learning\
+- Computer Vision
+
 ## Employment History
 - Bitdefender (2015-2022), Senior Software Engineer, Content Filtering - C++ developer, Backend, Machine Learning, Computer Vision
 - Capgemini (2022-Present), Python Software Engineer
