@@ -17,7 +17,7 @@ I am pursuing a Master's in Artificial Intelligence and Optimisation at the same
 
 
 ## Research Experience
-- Published article: Application of Image Classification https://doi.org/10.1007/978-3-030-33720-9_1\
+- Published article: Application of Image Classification [read here](https://doi.org/10.1007/978-3-030-33720-9_1)
 
 
 @2023
