@@ -1,6 +1,6 @@
 # Cristian Ion
 
-## Professional Summary
+## Summary
 Seasoned Software Engineer adept at crafting inventive and refined solutions through robust technical expertise.
 My passion lies in the intersection of software development and scientific research, where I excel in designing
 sophisticated solutions. With a keen interest in algorithms, I am dedicated to building cutting-edge software
@@ -10,11 +10,11 @@ that pushes the boundaries of innovation.
 - Web services development experience using Python or NodeJS processing large volumes of data.
 - AI experience with Machine Learning and Computer vision algorithms and integration with real-time detection products.
 
-## Employment History
+## Employment
 - Bitdefender (2015-2022), Senior Software Engineer, Cyber-Threat Intelligence lab, Content Filtering Development
 - Capgemini (2022-Present), Python Software Engineer - Backend
 
-## Education Background
+## Education
 I graduated from the Computer Science Faculty in 2017, "Alexandru Ioan Cuza" University in Iasi, Romania.\
 I am pursuing a Master's in Artificial Intelligence and Optimisation at the same faculty.
 
