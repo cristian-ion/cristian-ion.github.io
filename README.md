@@ -11,8 +11,10 @@ that pushes the boundaries of innovation.
 - AI experience with Machine Learning and Computer vision algorithms and integration with real-time detection products.
 
 ## Employment
-- Bitdefender (2015-2022), Senior Software Engineer, Cyber-Threat Intelligence lab, Content Filtering Development
-- Capgemini (2022-Present), Python Software Engineer - Backend
+- Capgemini (2022-Present), Python Software Engineer - Backend (development)
+- Bitdefender (2020-2022), Senior Software Engineer (development), Cyber-Threat Intelligence lab, Content Filtering
+- Bitdefender (2017-2020), Software Engineer (development), Cyber-Threat Intelligence lab, Content Filtering
+- Bitdefender (2015-2017), Junior Software Developer, Cyber-Threat Intelligence lab, Content Filtering
 
 ## Education
 I graduated from the Computer Science Faculty in 2017, "Alexandru Ioan Cuza" University in Iasi, Romania.\
