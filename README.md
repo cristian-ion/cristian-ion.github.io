@@ -23,6 +23,8 @@ that pushes the boundaries of innovation.
 ## Research
 - Ion, C., Minea, C. (2019). Application of Image Classification for Fine-Grained Nudity Detection. In: Bebis, G., et al. Advances in Visual Computing. ISVC 2019. Lecture Notes in Computer Science(), vol 11844. Springer, Cham. [link](https://doi.org/10.1007/978-3-030-33720-9_1)
 
+[LinkedIn](https://www.linkedin.com/in/cristianion94/)
+[Facebook](https://www.facebook.com/cion94/)
 
 @2023
 
