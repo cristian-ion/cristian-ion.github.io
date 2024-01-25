@@ -1,10 +1,6 @@
 # Cristian Ion
 
 ## Summary
-Seasoned Software Engineer adept at crafting inventive and refined solutions through robust technical expertise.
-My passion lies in the intersection of software development and scientific research, where I excel in designing
-sophisticated solutions. With a keen interest in algorithms, I am dedicated to building cutting-edge software
-that pushes the boundaries of innovation.
 Designing and implementing innovative solutions using solid technical skills in backend technologies and machine learning, 
 making real-time and reliable software products possible.
 
