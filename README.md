@@ -19,7 +19,7 @@ I graduated from the Computer Science Faculty in 2017, "Alexandru Ioan Cuza" Uni
 I am pursuing a Master's in Artificial Intelligence and Optimisation at the same faculty.
 
 
-## Research Experience
+## Research
 - Ion, C., Minea, C. (2019). Application of Image Classification for Fine-Grained Nudity Detection. In: Bebis, G., et al. Advances in Visual Computing. ISVC 2019. Lecture Notes in Computer Science(), vol 11844. Springer, Cham. [link](https://doi.org/10.1007/978-3-030-33720-9_1)
 
 
