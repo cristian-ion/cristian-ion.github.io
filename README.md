@@ -25,4 +25,3 @@ I am pursuing a Master's in Artificial Intelligence and Optimisation at the same
 
 @2023
 
-Cristian Ion, Sr. Software Engineer
