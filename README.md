@@ -1,8 +1,7 @@
 # Cristian Ion
 
 ## Summary
-Designing and implementing innovative solutions using solid technical skills in backend technologies and machine learning, 
-making real-time and reliable software products possible.
+Hey there! I'm an SWE with a strong background in building innovative, real-time and reliable applications possible.
 
 - Experienced with C++ development and maintenance for real-time software in cyber security products.
 - Web services development and maintenance experience using Python and NodeJS, processing large volumes of data with concurrency, parallelism and message queues.
