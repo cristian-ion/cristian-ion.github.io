@@ -1,7 +1,6 @@
 # Cristian Ion
 ~ Software Engineer
 
-#### 
 Hey there! I'm a professional SWE with a strong background in building innovative, real-time and reliable applications possible.
 
 - Experienced with C++ development and maintenance for real-time software in cyber security products.
