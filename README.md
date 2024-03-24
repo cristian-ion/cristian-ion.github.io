@@ -3,8 +3,8 @@ Software Engineer
 
 Hey there! I'm a professional software developer engineer with a strong background in building innovative, real-time and reliable applications.
 
-- Experienced with C++ development and maintenance for real-time software in cyber security products.
 - Web services development and maintenance experience using Python and NodeJS, processing large volumes of data with concurrency, parallelism and message queues.
+- Experienced with C++ development and maintenance for real-time software in cyber security products.
 - AI development experience designing Machine Learning and Computer vision algorithms, integration and maintenance with real-time detection products.
 - Professional experience with data storage systems using SQL and NoSQL.
 
