@@ -2,7 +2,7 @@
 Software Engineer
 
 Hello!
-I'm Software engineer with over 8 years of experience. I have a strong background in building innovative, real-time and reliable ML applications. I have worked on designing and building production ready models and integration in the product's back-end. I posses vast experience with multiple programming languages including Python, C++, and NodeJS. I have a great amount of experience in back-end engineering, including web services, web APIs, asynchronous service to service communications and databases. My background is in the field of computer science. Some of the practical problems I have worked on are in the domain of spam detection and image recognition.
+I'm Software engineer with over 8 years of experience. I have a strong background in building innovative, real-time and reliable applications. I have worked on designing and building production ready machine learning models and integration in the product's back-end. I posses vast experience with multiple programming languages including Python, C++, and NodeJS. I have a great amount of experience in back-end engineering, including web services, web APIs, asynchronous service to service communications and databases. My background is in the field of computer science. Some of the practical problems I have worked on are in the domain of spam detection and image recognition.
 
 - Web services development and maintenance experience using Python and NodeJS, processing large volumes of data with concurrency, parallelism and message queues.
 - Experienced with C++ development and maintenance for real-time software in cyber security products.
