@@ -7,7 +7,7 @@ I'm a software engineer with a strong background in working on innovative, real-
 - Backend engineering experience using Python or NodeJS, with databases, concurrency, parallelism and message queues.
 - AI/ML engineering experience in designing Machine Learning and Computer vision models, and integration and maintenance in web services or mobile devices.
 - Development of key features (hashing, parsing, heuristics) in spam detection software in C++.
-- Current stack: FastAPI, PostgreSQL, Flask, MongoDB, Alembic, Pytorch
+- Current stack: FastAPI, Celery, PostgreSQL, Flask, MongoDB, Alembic, Pytorch
 - Git, Jira, Linux
 
 #### Employment
