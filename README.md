@@ -1,5 +1,5 @@
 # Cristian Ion
-Software Engineer
+~ SW. Engineer, Backend ~
 
 I'm a software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend. I am interested machine learning and computer vision applications.
 
