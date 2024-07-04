@@ -23,5 +23,5 @@ I'm a software engineer with a strong background in working on innovative, real-
 
 [LinkedIn](https://www.linkedin.com/in/cristianion94/)
 
-@2023
+@2024
 
