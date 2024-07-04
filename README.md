@@ -12,7 +12,7 @@ I'm a software engineer with a strong background in working on innovative, real-
 
 #### Employment
 - Capgemini (2022-Present), Software Engineer, Python Backend Engineer
-- Bitdefender (2015-2017), Software Engineer
+- Bitdefender (2015-2022), Software Engineer
 
 #### Education
 - 2017 - Present, Master's in Artificial Intelligence and Optimisation at the Computer Science Faculty, "Alexandru Ioan Cuza" University in Iasi, Romania.
