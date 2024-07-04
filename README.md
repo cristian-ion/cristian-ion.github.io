@@ -21,6 +21,10 @@ I'm a software engineer with a strong background in working on innovative, real-
 #### Papers
 - Ion, C., Minea, C. (2019). Application of Image Classification for Fine-Grained Nudity Detection. In: Bebis, G., et al. Advances in Visual Computing. ISVC 2019. Lecture Notes in Computer Science(), vol 11844. Springer, Cham. [link](https://doi.org/10.1007/978-3-030-33720-9_1), Supported by Bitdefender organization.
 
+#### Personal Projects
+- (Ongoing) Satellite imagery recognition using deep learning models. Developement of models for classification, detection and segmentation tasks.
+
+
 [LinkedIn](https://www.linkedin.com/in/cristianion94/)
 
 @2024
