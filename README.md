@@ -3,16 +3,16 @@ Software Engineer
 
 I'm a software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend. I am interested machine learning and computer vision applications.
 
-Some 
+#### Technical skills
 - Backend engineering experience using Python or NodeJS, with databases, concurrency, parallelism and message queues.
 - AI/ML engineering experience in designing Machine Learning and Computer vision models, and integration and maintenance in web services or mobile devices.
 - Experienced with C++ development and maintenance for real-time software in Anti-Spam software.
+- Current stack: FastAPI, PostgreSQL, Flask, MongoDB, Alembic, Pytorch
+- Git, Jira, Linux
 
 #### Employment
-- Capgemini (2022-Present), Python Software Engineer - Backend (development)
-- Bitdefender (2020-2022), Senior Software Engineer (development), Cyber-Threat Intelligence lab, Content Filtering
-- Bitdefender (2017-2020), Software Engineer (development), Cyber-Threat Intelligence lab, Content Filtering
-- Bitdefender (2015-2017), Junior Software Developer, Cyber-Threat Intelligence lab, Content Filtering
+- Capgemini (2022-Present), Software Engineer, Python Backend Engineer
+- Bitdefender (2015-2017), Software Engineer
 
 #### Education
 - 2017 - Present, I am pursuing a Master's in Artificial Intelligence and Optimisation at the Computer Science Faculty, "Alexandru Ioan Cuza" University in Iasi, Romania.
