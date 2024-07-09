@@ -1,5 +1,4 @@
 # Cristian Ion
-~ SW. Engineer, Backend ~
 
 Location: Iasi, Romania
 
