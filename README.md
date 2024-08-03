@@ -2,7 +2,7 @@
 
 Location: Iasi, Romania
 
-I'm a software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend.
+Software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend.
 Interested in machine learning and computer vision.
 
 #### Technical skills
