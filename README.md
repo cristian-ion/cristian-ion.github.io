@@ -2,13 +2,12 @@
 
 Location: Iasi, Romania
 
-I'm a software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend. I am interested machine learning and computer vision applications.
+I'm a software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend.
+Interested in machine learning and computer vision.
 
 #### Technical skills
-- Backend engineering experience using Python or NodeJS, with databases, concurrency, parallelism and message queues.
-- AI/ML engineering experience in designing machine learning models for computer vision and anti-spam applications; integration of models in web services or mobile devices.
-- Development of key features (algorithms, hashing, parsing, heuristics) in spam detection software in C++.
-- Current stack: FastAPI, Celery, PostgreSQL, Flask, MongoDB, Alembic, Pytorch
+- Backend engineering with Python including FastAPI, Celery, PostgreSQL, Flask, MongoDB, Alembic, Pytorch, etc.
+- AI experience with research and development of deep learning models
 - Git, Jira, Linux
 
 #### Employment
