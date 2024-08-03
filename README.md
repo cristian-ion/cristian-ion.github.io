@@ -5,11 +5,6 @@ Location: Iasi, Romania
 Software engineer with a strong background in working on innovative, real-time and reliable solutions with focus on the backend.
 Interested in machine learning and computer vision.
 
-#### Technical skills
-- Backend engineering with Python including FastAPI, Celery, PostgreSQL, Flask, MongoDB, Alembic, Pytorch, etc.
-- AI experience with research and development of deep learning models
-- Git, Jira, Linux
-
 #### Employment
 - Capgemini Engineering (2022-Present), Software Engineer, Backend Engineer / Python
 - Bitdefender (2015-2022), Software Engineer, Content Filtering / AntiSpam Development
@@ -24,6 +19,10 @@ Interested in machine learning and computer vision.
 #### Personal Projects
 - (Ongoing) Satellite imagery recognition using deep learning models. Developement of models for classification, detection and segmentation tasks.
 
+#### Technical skills
+- Backend engineering with Python including FastAPI, Celery, PostgreSQL, Flask, MongoDB, Alembic, Pytorch, etc.
+- AI experience with research and development of deep learning models
+- Git, Jira, Linux
 
 [LinkedIn](https://www.linkedin.com/in/cristianion94/)
 
