@@ -12,8 +12,8 @@ I'm a software engineer with a strong background in working on innovative, real-
 - Git, Jira, Linux
 
 #### Employment
-- Capgemini (2022-Present), Software Engineer, Python, Backend
-- Bitdefender (2015-2022), Software Engineer, C++, NodeJS, Python, AntiSpam, Computer Vision
+- Capgemini Engineering (2022-Present), Software Engineer, Backend Engineer / Python
+- Bitdefender (2015-2022), Software Engineer, Content Filtering / AntiSpam Development
 
 #### Education
 - 2017 - Present, Master's in Artificial Intelligence and Optimisation at the Computer Science Faculty, "Alexandru Ioan Cuza" University in Iasi, Romania.
